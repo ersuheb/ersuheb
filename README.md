@@ -63,7 +63,7 @@ __Check out my GitHub repository:__
 
 I'm a Student living in Prayagraj, I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, exchanging ideas, learn from their experiences and spreading knowledge & positivity. If you are around Prayagraj, drop an email and let's catch-up over Coffee! 
 
-## 👨‍💻 *Tech Stack I am Familiar With*:
+<h2> 👨‍💻 Tech Stack I am Familiar With: </h2>
 
 <p align="center">
 <br/>
