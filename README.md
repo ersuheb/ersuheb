@@ -54,8 +54,8 @@ __Check out my GitHub repository:__
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ersuheb" alt="GitHub Stats" /> <br/><br/>
-  <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ersuheb" alt="WakaTime" />
+  <!--<b><em>Programming activity (Last 7 days):</em></b> <br/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ersuheb" alt="WakaTime" /> -->
   </p>
 </div>
 
@@ -69,4 +69,4 @@ I'm a Student living in Prayagraj, I am an enthusiastic and social person who lo
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:ersuheb@gmail.com">![ersuheb@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/ersuheb/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:ersuheb@gmail.com">![ersuheb@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/ersuheb/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://www.instagram.com/ersuheb/">![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a> <a href="https://twitter.com/ersuheb">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
