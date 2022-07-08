@@ -33,6 +33,7 @@ I'm Suheb Ali!
 - On the way to learn as much as i can
 
 <h2>🧑‍💻 I'm Currently learning</h2>
+
 - Data Structures and Algorithms
 - ReactJS and Blockchain Technology
 
