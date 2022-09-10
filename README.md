@@ -51,11 +51,13 @@ __Check out my GitHub repository:__
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=ersuheb.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
   </p> -->
   
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ersuheb" alt="GitHub Stats" /> <br/><br/>
-  <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ersuheb" alt="WakaTime" /> 
+  <p>
+  <a href="https://github.com/ersuheb/ersuheb">
+  <!-- <b><em>GitHub Stats:</em></b> <br/> -->
+    <img align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ersuheb" alt="GitHub Stats" /></a>
+  <!-- <br/><br/><b><em>Programming activity (Last 7 days):</em></b> <br/> -->
+  <a href="https://github.com/ersuheb/ersuheb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ersuheb" alt="WakaTime" /></a>
   </p>
 </div>
 
