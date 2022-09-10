@@ -54,10 +54,10 @@ __Check out my GitHub repository:__
   <p>
   <a href="https://github.com/ersuheb/ersuheb">
   <!-- <b><em>GitHub Stats:</em></b> <br/> -->
-    <img align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ersuheb" alt="GitHub Stats" /></a>
+    <img align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ersuheb" alt="GitHub Stats" width="400" /></a>
   <!-- <br/><br/><b><em>Programming activity (Last 7 days):</em></b> <br/> -->
   <a href="https://github.com/ersuheb/ersuheb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ersuheb" alt="WakaTime" /></a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ersuheb" alt="WakaTime" width="400" /></a>
   </p>
 </div>
 
