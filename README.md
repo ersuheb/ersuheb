@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- <h2 align='center'>Suheb Ali @ ersuheb</h2>
 <p align='center'><b>Pursuing B.Tech in CSE from Institute of Engineering and Rural Technology</b></p> -->
 
-<h2>Hey! 👋</h2>
+# Hey!<img src="https://raw.githubusercontent.com/ersuheb/ersuheb/master/wave.gif" width="30px" height="30px" />
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ersuheb.ersuheb)](https://github.com/ersuheb) [![GitHub followers](https://img.shields.io/github/followers/ersuheb.svg?style=social&label=Follow)](https://github.com/ersuheb?tab=followers)
 
