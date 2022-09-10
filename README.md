@@ -56,11 +56,9 @@ __Check out my GitHub repository:__
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ersuheb" alt="GitHub Stats" /> <br/><br/>
   <!-- <b><em>Programming activity (Last 7 days):</em></b> <br/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ersuheb" alt="WakaTime" /> -->
-
-  📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
+  <b><em>Programming activity (Last 7 days):</em></b> <br/>
+     <!--START_SECTION:waka-->
+     <!--END_SECTION:waka-->
   </p>
 </div>
 
