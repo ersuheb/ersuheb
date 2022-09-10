@@ -59,11 +59,14 @@ __Check out my GitHub repository:__
   <b><em>Programming activity (Last 7 days):</em></b> <br/>
      <!--START_SECTION:waka-->
 
+```text
+C++        2 hrs 17 mins   ██████████████████████░░░   87.91 %
+Markdown   18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 %
+Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
 
-
-
-     
-     <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
   </p>
 </div>
 
