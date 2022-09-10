@@ -51,7 +51,7 @@ __Check out my GitHub repository:__
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=ersuheb.meiyappan&cover_image=true&theme=novatorem" alt="Now Listenting to" />
   </p> -->
   
-  <p>
+  <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ersuheb" alt="GitHub Stats" /> <br/><br/>
   <b><em>Programming activity (Last 7 days):</em></b> <br/>
