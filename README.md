@@ -40,6 +40,9 @@ __Check out my GitHub repository:__
     <a href="https://github.com/ersuheb/Placement_Preparation">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=ersuheb&repo=Placement_Preparation" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/ersuheb/Data_Structures_in_Real_Life">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ersuheb&repo=Data_Structures_in_Real_Life" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
 
@@ -54,10 +57,10 @@ __Check out my GitHub repository:__
   <p>
   <a href="https://github.com/ersuheb/ersuheb">
   <!-- <b><em>GitHub Stats:</em></b> <br/> -->
-    <img align ="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ersuheb" alt="GitHub Stats" width="400" /></a>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ersuheb" alt="GitHub Stats" width="400" /></a>
   <!-- <br/><br/><b><em>Programming activity (Last 7 days):</em></b> <br/> -->
   <a href="https://github.com/ersuheb/ersuheb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ersuheb" alt="WakaTime" width="400" /></a>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ersuheb" alt="WakaTime" width="400" /> </a>
   </p>
 </div>
 
