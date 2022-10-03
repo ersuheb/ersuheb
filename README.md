@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ersuheb.ersuheb)](https://github.com/ersuheb) [![GitHub followers](https://img.shields.io/github/followers/ersuheb.svg?style=social&label=Follow)](https://github.com/ersuheb?tab=followers)
 
 I'm Suheb Ali! 
-- <i>Currently:</i> Pursuing B.Tech 
+- <i>Currently:</i> Pursuing B.Tech in Computer Science and Engineering
 - <i>Previously:</i> Diploma in Electrical Egineering
 
 <h2>💻 I'm Currently workng on</h2>
