@@ -61,7 +61,7 @@ __Check out my GitHub repository:__
   <!-- <br/><br/><b><em>Programming activity (Last 7 days):</em></b> <br/> -->
   <a href="https://github.com/ersuheb/ersuheb">
     <!-- img align="center" src="https://github-readme-stats-pg6wsp5so-ersuheb.vercel.app/api/wakatime?username=ersuheb" alt="WakaTime" width="400" /--> 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ersuheb)](https://github.com/ersuheb/ersuheb)
+    < img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersuheb" alt="Top Langs" width="400" /> 
     </a>
   </p>
 </div>
