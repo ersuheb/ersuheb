@@ -60,7 +60,9 @@ __Check out my GitHub repository:__
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ersuheb" alt="GitHub Stats" width="400" /></a>
   <!-- <br/><br/><b><em>Programming activity (Last 7 days):</em></b> <br/> -->
   <a href="https://github.com/ersuheb/ersuheb">
-    <img align="center" src="https://github-readme-stats-pg6wsp5so-ersuheb.vercel.app/api/wakatime?username=ersuheb" alt="WakaTime" width="400" /> </a>
+    <!-- img align="center" src="https://github-readme-stats-pg6wsp5so-ersuheb.vercel.app/api/wakatime?username=ersuheb" alt="WakaTime" width="400" /--> 
+    [![Suheb's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ersuheb)](https://github.com/ersuheb/ersuheb)
+    </a>
   </p>
 </div>
 
