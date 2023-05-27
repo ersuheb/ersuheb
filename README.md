@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Suheb ALi Banner Image](./banner.png)
+![Suheb ALi Banner Image](https://github.com/ersuheb/ersuheb/assets/81223989/f88bc3d4-0426-403b-a453-237ef25e5ff3)
 <!-- <h2 align='center'>Suheb Ali @ ersuheb</h2>
 <p align='center'><b>Pursuing B.Tech in CSE from Institute of Engineering and Rural Technology</b></p> -->
 
-# Hey!<img src="https://raw.githubusercontent.com/ersuheb/ersuheb/master/wave.gif" width="30px" height="30px" />
+# Hey!<img src="https://github.com/ersuheb/ersuheb/assets/81223989/bd45efa7-44f2-4f9f-aa59-4e64d8065fc4" width="30px" height="30px" />
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ersuheb.ersuheb)](https://github.com/ersuheb) [![GitHub followers](https://img.shields.io/github/followers/ersuheb.svg?style=social&label=Follow)](https://github.com/ersuheb?tab=followers)
 
