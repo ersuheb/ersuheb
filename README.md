@@ -13,12 +13,13 @@
 
 ## ⚡ What I Work On
 
-- 🚨 **Incident response** on live production systems, kernel-level hangs, network conflicts, hardware failures
-- ☸️ **Kubernetes & GPU platform operations**, scheduling, networking, cluster PKI
-- 🔐 **TLS migrations** on production messaging infra, zero dropped connections
-- 🛡️ **Fleet-wide security remediation** across 80+ production servers
-- 📊 **Custom monitoring & alerting**, built where off-the-shelf tooling falls short
-- 🚀 Currently building the **SRE function for Blaze**, E2E's GPU inference platform
+- 🧭 **Own platform strategy and reliability** across E2E's cloud infrastructure, from the myaccount platform to the TIR v2 GPU platform
+- 👥 **Lead a cross-functional engineering team** covering production operations, security, and platform reliability
+- 🚨 **Drive incident response end to end**: triage, root cause, fix, and the retro that makes sure it doesn't come back
+- ☸️ **Own Kubernetes and GPU platform operations**: scheduling, networking, cluster PKI, multi-tenant workloads
+- 🏗️ **Own infrastructure management end to end**: capacity, architecture, upgrades, and zero-downtime migrations, proven with evidence, not assumptions
+- 🛡️ **Own security and reliability posture** across the entire production environment: vulnerability remediation, hardening, access control
+- 📊 **Build monitoring and alerting** that should already exist, and make the call on what's worth automating vs what needs a human
 
 <br/>
 
