@@ -1,30 +1,53 @@
+<div align="center">
+
 ![Suheb Ali Banner](https://raw.githubusercontent.com/ersuheb/ersuheb/main/banner.svg)
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ersuheb.ersuheb)](https://github.com/ersuheb) [![GitHub followers](https://img.shields.io/github/followers/ersuheb.svg?style=social&label=Follow)](https://github.com/ersuheb?tab=followers)
+### Cloud Platform Lead @ E2E Networks
+**I keep production infrastructure running, and I fix it when it doesn't.**
 
-I'm Suheb Ali — Cloud Platform Lead at E2E Networks.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ersuheb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ersuheb/)
 
-I own reliability and operations for large-scale cloud/GPU infrastructure — Kubernetes, production incident response, observability, and automating the things that used to be manual.
-
-## 💻 What I work on
-
-- Running and hardening production infrastructure at scale (Kubernetes, load balancers, databases, messaging systems)
-- Incident response and root-cause investigation on live production systems
-- Monitoring/observability tooling and automation
-- Security remediation and vulnerability management across large server fleets
-
-## 👀 Stats
-
-<div>
-  <p>
-  <a href="https://github.com/ersuheb/ersuheb">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ersuheb" alt="GitHub Stats" width="400" /></a>
-  <a href="https://github.com/ersuheb/ersuheb">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ersuheb&show_icons=true&locale=en&layout=compact" alt="Top Langs" width="400" /></a>
-  </p>
 </div>
 
-## 👨‍💻 Tech Stack
+<br/>
+
+## What I Work On
+
+I lead the Cloud Platform team responsible for the reliability of a large-scale production fleet (80+ servers) spanning customer-facing load balancers, databases, message queues, and a GPU/Kubernetes platform.
+
+**Production operations & incident response**
+- Live incident response on production systems: stuck kernel-level processes, duplicate-IP network conflicts, hardware failures, OOM/resource exhaustion
+- Root-cause investigation that goes all the way down: from an application symptom, through the load balancer, through the network path, to the actual kernel/hardware layer when needed
+- Zero-downtime changes on live production traffic: binary upgrades, TLS migrations, config rollouts, all verified empirically (PID continuity, connection counts, real traffic health) before being called done
+
+**Platform & infrastructure engineering**
+- Kubernetes platform operations: workload scheduling, GPU node pools, networking (CNI/Cilium), cluster-internal PKI
+- TLS migrations on production messaging infrastructure (RabbitMQ) across multiple data centers, with zero dropped connections
+- Load balancer architecture and hardening (HAProxy/Nginx): TLS termination, zero-downtime upgrades, backend health monitoring
+
+**Security & compliance**
+- Led vulnerability remediation across an 80+ server fleet end-to-end: CVE patching, TLS/cipher hardening, certificate lifecycle, access control
+- Built monitoring and alerting for gaps that generic tooling misses: stale certificates, silent backend failures, service drift
+
+**Monitoring & observability**
+- Designed and built custom Zabbix checks, triggers, and alert routing where off-the-shelf monitoring fell short
+- A consistent principle: if something breaks and nothing alerts on it, that's a bug in the monitoring, not just the incident
+
+**Currently**
+- Standing up the SRE function for Blaze, E2E's GPU inference platform (Kubernetes, vLLM/SGLang serving, multi-model routing)
+
+<br/>
+
+## How I Operate
+
+> Production first. Read before you write. Verify, don't assume.
+
+Every change gets investigated read-only before anything is touched. Every fix gets proven, not just applied, with hard evidence (not "it should work now"). When a root cause is still a hypothesis, I treat it as one, until it isn't.
+
+<br/>
+
+## Tech Stack
 
 <p align="center">
 <b>Infra & Orchestration</b><br/>
@@ -56,6 +79,10 @@ I own reliability and operations for large-scale cloud/GPU infrastructure — Ku
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
 </p>
 
-## 📫 How to reach me
+<br/>
 
-<a href="mailto:ersuheb@gmail.com">![ersuheb@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/ersuheb/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<div align="center">
+
+**Open to connecting with other infra/SRE folks. Reach out anytime.**
+
+</div>
